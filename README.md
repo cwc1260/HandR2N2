@@ -19,7 +19,7 @@ This is the implementation of the manuscript
     for example 
     ```python3 eval_msra.py --model best_model.pth --iters 3 --test_iters 5 --test_path ../preprocess_nyu/testing/```
 
-    we provided the pre-trained models ('./pretrained_model/nyu_rrnn_3iters/best_model.pth') for MSRA
+    we provided the pre-trained models ('./pretrained_model/nyu_rrnn_3iters/best_model.pth') for NYU
 
 4. If a new training process is needed, please execute the following instructions after step 1 and 2 are completed
 
