@@ -23,8 +23,6 @@ This is the implementation of the manuscript
 
 4. If a new training process is needed, please execute the following instructions after step 1 and 2 are completed
 
-   go to "train_eval" directory
-
    . for training NYU
     execute ``` python3 train_rrnn.py --iters [number of training iteration] --dataset_path [NYU training dataset path] --test_path [NYU testing dataset path]```
     example ``` python3 train_rrnn.py --iters 3 --dataset_path ../preprocess_nyu/training/ --test_path ../preprocess_nyu/testing/```
