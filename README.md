@@ -1,7 +1,9 @@
 # HandR2N2: Iterative 3D Hand Pose Estimation Using a Residual Recurrent Neural Network
 Wencan Cheng and Jong Hwan Ko
+
 IEEE International Conference on Computer Vision (ICCV), 2023
 
+---
 1. Prepare dataset 
 
     please download the NYU dataset
