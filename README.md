@@ -1,8 +1,6 @@
 # HandR2N2: Iterative 3D Hand Pose Estimation Using a Residual Recurrent Neural Network
 Wencan Cheng and Jong Hwan Ko
 
-[concept.pdf](https://github.com/cwc1260/HandR2N2/files/12173741/concept.pdf)
-
 1. Prepare dataset 
 
     please download the NYU dataset
